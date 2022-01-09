@@ -24,3 +24,4 @@ CREATE TABLE monthly_status_category_rpt AS
             3,
             4; 
  
+ 
