@@ -19,4 +19,4 @@ if __name__ == "__main__":
     print("Monthly report")
     print(overall_report_df)
     print("Report at status and catgeory level")
-    print(overall_status_category_df)
+    print(overall_status_category_df) 
